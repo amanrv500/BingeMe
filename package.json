@@ -1,0 +1,15 @@
+{
+  "name": "bingeme",
+  "version": "1.0.0",
+  "description": "videostreamingapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
