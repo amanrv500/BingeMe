@@ -7,4 +7,4 @@ Recommended Browser- Brave Browser
 
 
 for live demonstration
-https://bingeme-app.herokuapp.com
+https://bingeme-app.herokuapp.com 
